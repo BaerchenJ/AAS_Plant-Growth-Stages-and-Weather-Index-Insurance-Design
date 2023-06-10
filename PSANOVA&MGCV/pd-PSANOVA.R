@@ -1,3 +1,9 @@
+##############################################
+# File: pd-PSANOVA.r 
+# Author: [Jing Zou] 
+# Created: [2023.06.10] 
+# Description: [estimate phase-division models using PSANOVA] 
+##############################################
 
 rm(list=ls())
 
