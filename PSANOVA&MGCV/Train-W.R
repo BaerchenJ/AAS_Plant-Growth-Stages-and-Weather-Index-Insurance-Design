@@ -2,7 +2,7 @@
 # File: Train-W.r 
 # Author: [Jing Zou] 
 # Created: [2023.06.10] 
-# Description: [estimate a whole-cycle Generalized Additive Model using PSANOVA method] 
+# Description: [core function of training a whole-cycle Generalized Additive Model using PSANOVA method] 
 ##############################################
 
 WCPSA <- function(y, x1, x2, nseg){
