@@ -2,7 +2,7 @@
 # File: Train-P.r 
 # Author: [Jing Zou] 
 # Created: [2023.06.10] 
-# Description: [estimate a phase-division Generalized Additive Model using PSANOVA method] 
+# Description: [core function of training a phase-division Generalized Additive Model using PSANOVA method] 
 ##############################################
 
 PDPSA <- function(y, x1, x2, x3, x4, x5, x6, x7, x8, nseg){
