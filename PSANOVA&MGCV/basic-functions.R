@@ -1,3 +1,10 @@
+##############################################
+# File: basic-functions.r 
+# Author: [Jing Zou] 
+# Created: [2023.06.10] 
+# Description: [basic functions of PSANOVA method] 
+##############################################
+
 library(splines)
 library(fields)
 
