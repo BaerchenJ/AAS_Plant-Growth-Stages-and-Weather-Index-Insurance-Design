@@ -1,11 +1,16 @@
-
+##############################################
+# File: Train-W.r 
+# Author: [Jing Zou] 
+# Created: [2023.06.10] 
+# Description: [estimate a whole-cycle Generalized Additive Model using PSANOVA method] 
+##############################################
 
 WCPSA <- function(y, x1, x2, nseg){
   
   n = length(y)
   
   ## definitions of the following three parameters please refer to 
-  ## Lee, D. J., Durbán, M., & Eilers, P. (2013). Efficient two-dimensional smoothing with P-spline ANOVA mixed models and nested bases. Computational Statistics & Data Analysis, 61, 22-37.
+  ## Lee, D. J., DurbÃ¡n, M., & Eilers, P. (2013). Efficient two-dimensional smoothing with P-spline ANOVA mixed models and nested bases. Computational Statistics & Data Analysis, 61, 22-37.
   
   bdeg = 3  
   
