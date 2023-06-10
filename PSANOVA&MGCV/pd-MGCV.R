@@ -1,3 +1,10 @@
+##############################################
+# File: pd-MGCV.r 
+# Author: [Jing Zou] 
+# Created: [2023.06.10] 
+# Description: [estimate phase-division models using mgcv package gam()] 
+##############################################
+
 rm(list=ls())
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
