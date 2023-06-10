@@ -1,3 +1,9 @@
+##############################################
+# File: wc-MGCV.r 
+# Author: [Jing Zou] 
+# Created: [2023.06.10] 
+# Description: [estimate whole-cycle models using mgcv package gam()] 
+##############################################
 
 rm(list=ls())
 
