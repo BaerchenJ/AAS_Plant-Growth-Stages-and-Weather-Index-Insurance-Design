@@ -9,6 +9,11 @@ The dataset shared by Jing Zou, Martin Odening, and Ostap Okhrin comprises four 
 
 4. CalculateWeatherIndex&YieldLoss: For readers seeking to comprehend the calculation process of weather indices and yield losses from the raw data, this folder presents relevant information. It includes R codes for generating time series plots of yield, detrended yield, yield loss, growing degree days (GDD), and cumulative rainfall (CR).
 
+Raw data sources:
+County-level soybean yield data and phenology dates of 96 counties in Illinois from 1998 to 2020 are from the National Agricultural Statistics Services (NASS).
+Meteorological data are from
+- Thornton, M. M., Shrestha, R., Wei, Y., Thornton, P. E., Kao, S., & Wilson, B. E. (2020). Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4. ORNL DAAC, Oak Ridge, Tennessee, USA.
+
 The authors sincerely appreciate your interest in their study and value the time you have dedicated to reviewing and potentially replicating their research.
 
 Sincerely,
